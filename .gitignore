@@ -5,3 +5,5 @@
 
 # Исключение из игнорирования конкретного файла:
 !init.md
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
